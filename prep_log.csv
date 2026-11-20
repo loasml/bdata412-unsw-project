@@ -1,0 +1,7 @@
+step,value
+raw_rows,175341
+duplicates_removed,67601
+rows_after_dedup,107740
+sample_rows,10323
+seed,42
+floor_per_category,200
